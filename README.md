@@ -15,7 +15,7 @@
   My Background is Java and today I'm Solutions & DevOps Architect
 </p>
 
-<details>
+<details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
@@ -30,7 +30,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
